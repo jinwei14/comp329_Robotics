@@ -1,0 +1,12 @@
+MAS assignment2 {
+
+	infrastructure: Centralised
+
+	environment: AssEnv
+
+	agents:
+		scout; doctor;
+		
+	aslSourcePath:
+		"src/asl";
+}
